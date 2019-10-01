@@ -6,9 +6,9 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+2.6.4
 * System dependencies
-
+macOS 10.14.6
 * Configuration
 
 * Database creation
